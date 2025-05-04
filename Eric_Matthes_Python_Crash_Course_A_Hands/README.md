@@ -1,0 +1,1 @@
+Eric_Matthes_Python_Crash_Course_A_Hands book's exercises solutions
